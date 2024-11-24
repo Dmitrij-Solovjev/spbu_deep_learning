@@ -1,0 +1,13 @@
+names:
+- avatar
+- object
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: apex-videogame
+  url: https://universe.roboflow.com/roboflow-100/apex-videogame/dataset/2
+  version: 2
+  workspace: roboflow-100
+test: ../../datasets/apex-videogame-2/test/images
+train: ../../datasets/apex-videogame-2/train/images
+val: ../../datasets/apex-videogame-2/valid/images
